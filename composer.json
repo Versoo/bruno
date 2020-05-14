@@ -7,7 +7,7 @@
     },
     "require": {
         "laravel/framework": "^7.0",
-        "optimus/architect": "~1.0"
+        "versoo/architect": "~1.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
